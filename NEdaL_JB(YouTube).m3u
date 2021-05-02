@@ -1,4 +1,4 @@
-ŕ#EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/gDvhUjSWJwPgFz6J8",[color red]•●★-----| NEdaL JB 📺|-----★●•[/color]
 https://images.app.goo.gl/gDvhUjSWJwPgFz6J8
 
@@ -3545,24 +3545,24 @@ http://forevertv.me:8080/pk-moh-vods/546457563/37359
 #EXTINF:-1 tvg-id="" tvg-name="بث ١" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١
 https://hegazyiptv5.com/live/abdo/abdo55/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٢" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٢
-http://144.217.253.140/beinsport1/tracks-v1a1/mono.m3u8
+https://d34l47jhjotoz1.cloudfront.net:443/out/v1/e8a2fa146bf1450cb82bbfff73228d17/index_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٣" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٣
-https://d222f8pxmakpoy.cloudfront.net:443/out/v1/de6352c107034b02ad181f16bfa57d9b/index_1.m3u8
+https://akamai2-me.cdn.booyah.live/hls/113132/56913800.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٤" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٤
 https://d222f8pxmakpoy.cloudfront.net/out/v1/de6352c107034b02ad181f16bfa57d9b/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٥" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٥
-https://d34l47jhjotoz1.cloudfront.net:443/out/v1/e8a2fa146bf1450cb82bbfff73228d17/index_4.m3u8
+https://akamai2-me.cdn.booyah.live/hls/113130/59882978.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٦" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٦
-https://akamai2-me.cdn.booyah.live/hls/113138/59447552.m3u8
+http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yLzIwMjEgMzoxNzo0NiBQTSZoYXNoX3ZhbHVlPWZreFI1eUVZK01uUUJ5aVVIZXRxZ0E9PSZ2YWxpZG1pbnV0ZXM9MTgwJmlkPTJjNTJiNjYxNjQxZjEzYzMyZmFlODFjMmU4NDIwNTdh
 #EXTINF:-1 tvg-id="" tvg-name="بث ٧" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٧
-http://144.217.253.140/beinsport1/tracks-v1a1/mono.m3u8
+https://hegazyiptv5.com/live/abdo/abdo55/3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٨" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٨
-https://r24.server123.online/hls/live1/index.m3u8
+http://hegazyiptv5.com:80/live/abdo/abdo55/3.ts
 #EXTINF:-1 tvg-id="" tvg-name="بث ٩" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٩
-http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjEgMzo0NjowMCBQTSZoYXNoX3ZhbHVlPStiMDVOZG1pMEFyWHAwQXFKODRsNXc9PSZ2YWxpZG1pbnV0ZXM9MTgwJmlkPWE1OWQ3MTk2ZWM3ZmY3MGI5MDYzYWQ2NDI3OWJhZjI0
+http://www.teledunet.com:8080/live/tdn/1236220644954/11014834.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ١٠" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٠
-https://stream.mux.com/Bi2hIGKFyrYbPVakRbqeBUiVxQXYQPDayrJyDf01s14E.m3u8
+http://www.teledunet.com:8080/live/tdn/1236209650181/20061.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ١١" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١١
-https://goalar.arvanlive.com/hls/goalt/goalt_854/index.m3u8
+https://d34l47jhjotoz1.cloudfront.net:443/out/v1/e8a2fa146bf1450cb82bbfff73228d17/index_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ١٢" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٢
 https://akamai2-me.cdn.booyah.live/hls/113132/56913800.m3u8
